@@ -21,7 +21,7 @@
 ## 下载
 
 [📦 下载开发版](https://github.com/maicong/music/archive/master.zip) [📦 获取稳定版](https://github.com/maicong/music/releases)
-
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 ## 解决方案
 
 **1. 提示数据获取失败**
