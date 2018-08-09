@@ -1,0 +1,7 @@
+{
+  "name": "music bot",
+  "description": "一站式音乐解决方案",
+  "website": "https://music.2333.me",
+  "repository": "https://github.com/zhangke200377/music-heroku",
+  "success_url": "/index.php",
+{
