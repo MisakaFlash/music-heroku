@@ -3,7 +3,7 @@
 [![GitHub release](https://img.shields.io/github/release/maicong/music.svg?style=flat-square)](https://github.com/maicong/music/releases)
 [![PHP version](https://img.shields.io/badge/php-%3E%205.4-orange.svg)](https://github.com/php-src/php)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](#LICENSE)
-##一键部署到heroku
+
 ## 说明
 
 麦葱特制多站合一音乐搜索解决方案，支持搜索试听以下网站音乐：
@@ -18,7 +18,7 @@
 
 如果获取有误或需要改进，欢迎提交 [Issues](https://github.com/maicong/music/issues)
 
-## 下载
+## 下载/部署
 
 [📦 下载开发版](https://github.com/maicong/music/archive/master.zip) [📦 获取稳定版](https://github.com/maicong/music/releases)
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
