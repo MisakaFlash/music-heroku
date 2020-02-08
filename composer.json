@@ -1,9 +1,5 @@
 {
-  "require": {
-    "php": "7.1.33",
-    "ext-gd": "*",
-    "ext-mbstring": "*",
-    "ext-sqlite3": "*",
-    "ext-imagick": "*"
-  }
+    "require": {
+        "php-curl-class/php-curl-class": "^8.0"
+    }
 }
